@@ -5,7 +5,7 @@ export const ProjectData = [
         about: "A social media site for musicians",
         github: "github link",
         site: "deployed link",
-        image: "public/tempo.png"
+        image: "/tempo.png"
     },
     {
         id: 2,
@@ -13,7 +13,7 @@ export const ProjectData = [
         about: "text",
         github: "github link",
         site: "deployed link",
-        image: "public/randomizedMealPlanner.jpg"
+        image: "/randomizedMealPlanner.jpg"
     },
     {
         id: 3,
@@ -21,7 +21,7 @@ export const ProjectData = [
         about: "text",
         github: "github link",
         site: "deployed link",
-        image: "public/weatherDashboard.png"
+        image: "/weatherDashboard.png"
     },
     {
         id: 4,
@@ -29,7 +29,7 @@ export const ProjectData = [
         about: "text",
         github: "github link",
         site: "deployed link",
-        image: "public/passwordGenerator.png"
+        image: "/passwordGenerator.png"
     },
     {
         id: 5,
@@ -37,7 +37,7 @@ export const ProjectData = [
         about: "text",
         github: "github link",
         site: "deployed link",
-        image: "public/workdayScheduler.jpg"
+        image: "/workdayScheduler.jpg"
     },
     {
         id: 6,
@@ -45,6 +45,6 @@ export const ProjectData = [
         about: "text",
         github: "github link",
         site: "deployed link",
-        image: "public/codingQuiz.png"
+        image: "/codingQuiz.png"
     }
 ]
