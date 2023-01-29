@@ -2,8 +2,6 @@ import React from "react";
 import '../styles/ProjectCard.css';
 import { ProjectData } from '../utils/ProjectData';
 
-const project = ProjectData;
-
 const styles = {
   card: {
     margin: 20,

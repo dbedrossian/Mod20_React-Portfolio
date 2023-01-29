@@ -1,10 +1,10 @@
 import React from "react";
 import Navbar from "./components/Navbar";
-import Body from "./components/Body";
 import Footer from "./components/Footer";
 import Card from "./components/ProjectCard";
 import Landing from "./components/Landing";
 import About from "./components/About";
+import Contact from "./components/Contact"
 import "./App.css";
 
 function App() {
@@ -14,6 +14,7 @@ function App() {
       <Landing />
       <About />
       <Card />
+      <Contact />
       <Footer />
     </div>
   );
