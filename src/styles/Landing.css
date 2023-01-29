@@ -1,0 +1,24 @@
+.landing {
+    font-size: 500px;
+}
+
+h2 {
+    font-size: 500px;
+}
+
+.aboutText {
+    font-size: 14px;
+    padding: 50px;
+}
+
+.About {
+   display: flex; 
+   color: white;
+   padding: 50px;
+   align-items: center;
+}
+
+.aboutMe {
+    padding-bottom: 20px;
+    font-size: 50px;
+}

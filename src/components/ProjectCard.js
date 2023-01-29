@@ -22,10 +22,10 @@ const styles = {
     padding: '0px 0px 0px 5px',
   },
   content: {
-    padding: 0,
+    padding: 5,
     color: 'white',
     background: 'black',
-    maxWidth: 550,
+    maxWidth: 500,
   },
   image: {
     maxWidth: 300,
@@ -41,7 +41,8 @@ function ProjectCard() {
       <img src={project.image} style={styles.image}></img>
       <div style={styles.heading}>
       <h3 style={styles.heading}>{project.title}</h3>
-      {/* <p style={styles.content}>{project.about}</p> */}
+      <a style={styles.content} href={project.github}>Github</a>
+      <a style={styles.content} href={project.site}>Site</a>
       </div>
     </div>
   );
