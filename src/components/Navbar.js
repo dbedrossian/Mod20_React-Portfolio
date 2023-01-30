@@ -1,5 +1,6 @@
 import React from "react";
 import '../styles/Navbar.css';
+import NavTabs from "./NavTabs";
 
 const styles = {
     navbarNameStyle: {
@@ -19,13 +20,14 @@ function Navbar() {
             <div style={styles.navbarNameStyle}>
             <a href="/">Danny Bedrossian</a>
             </div>
-            <div style={styles.navbarStyle}>
+            {/* <div style={styles.navbarStyle}>
                 <h5 className="headerText">About</h5>
                 <h5 className="headerText">Portfolio</h5>
                 <h5 className="headerText">Contact</h5>
                 <h5 className="headerText">Resume</h5>
-            </div>
+            </div> */}
         </nav>
+        
     )
 };
 
