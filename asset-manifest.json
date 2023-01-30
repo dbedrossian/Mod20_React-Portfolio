@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.eb85e4de.css",
-    "main.js": "/static/js/main.2355b4cc.js",
+    "main.js": "/static/js/main.2f8064da.js",
     "static/media/jason-dent-itA0ybdIDTs-unsplash.jpg": "/static/media/jason-dent-itA0ybdIDTs-unsplash.ac6e599249c139614cf1.jpg",
     "index.html": "/index.html",
     "main.eb85e4de.css.map": "/static/css/main.eb85e4de.css.map",
-    "main.2355b4cc.js.map": "/static/js/main.2355b4cc.js.map"
+    "main.2f8064da.js.map": "/static/js/main.2f8064da.js.map"
   },
   "entrypoints": [
     "static/css/main.eb85e4de.css",
-    "static/js/main.2355b4cc.js"
+    "static/js/main.2f8064da.js"
   ]
 }
