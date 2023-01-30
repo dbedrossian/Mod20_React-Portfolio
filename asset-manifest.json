@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Mod20_React-Portfolio/static/css/main.2df58f6f.css",
-    "main.js": "/Mod20_React-Portfolio/static/js/main.6ef0fb70.js",
+    "main.js": "/Mod20_React-Portfolio/static/js/main.e85133b0.js",
     "static/media/jason-dent-itA0ybdIDTs-unsplash.jpg": "/Mod20_React-Portfolio/static/media/jason-dent-itA0ybdIDTs-unsplash.ac6e599249c139614cf1.jpg",
     "index.html": "/Mod20_React-Portfolio/index.html",
     "main.2df58f6f.css.map": "/Mod20_React-Portfolio/static/css/main.2df58f6f.css.map",
-    "main.6ef0fb70.js.map": "/Mod20_React-Portfolio/static/js/main.6ef0fb70.js.map"
+    "main.e85133b0.js.map": "/Mod20_React-Portfolio/static/js/main.e85133b0.js.map"
   },
   "entrypoints": [
     "static/css/main.2df58f6f.css",
-    "static/js/main.6ef0fb70.js"
+    "static/js/main.e85133b0.js"
   ]
 }
