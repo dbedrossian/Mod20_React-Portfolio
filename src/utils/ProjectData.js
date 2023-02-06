@@ -1,6 +1,14 @@
 export const ProjectData = [
     {
         id: 1,
+        title: "Dare Devil Deals",
+        about: "Devilishly Good Deals",
+        github: "https://github.com/dbedrossian/dare-devil-deals",
+        site: "https://still-caverns-91177.herokuapp.com/",
+        image: "./DDD.png"
+    },
+    {
+        id: 2,
         title: "Tempo",
         about: "A social media site for musicians",
         github: "https://github.com/dbedrossian/tempo",
@@ -8,7 +16,7 @@ export const ProjectData = [
         image: "./tempo.png"
     },
     {
-        id: 2,
+        id: 3,
         title: "Randomized Meal Planner",
         about: "Let the meal planner decide for you",
         github: "https://github.com/dbedrossian/Project1_random-meal-generator",
@@ -16,7 +24,7 @@ export const ProjectData = [
         image: "./randomizedMealPlanner.jpg"
     },
     {
-        id: 3,
+        id: 4,
         title: "Weather Dashboard",
         about: "A weather dashboard",
         github: "https://github.com/dbedrossian/Mod6_Weather-Dashboard",
@@ -24,7 +32,7 @@ export const ProjectData = [
         image: "./weatherDashboard.png"
     },
     {
-        id: 4,
+        id: 5,
         title: "Secure Password Generator",
         about: "A random password generator",
         github: "https://github.com/dbedrossian/Mod3_Password-Generator",
@@ -32,7 +40,7 @@ export const ProjectData = [
         image: "./passwordGenerator.png"
     },
     {
-        id: 5,
+        id: 6,
         title: "Workday Scheduler",
         about: "text",
         github: "https://github.com/dbedrossian/Mod5_Work-Day-Scheduler",
@@ -40,7 +48,7 @@ export const ProjectData = [
         image: "./workdayScheduler.jpg"
     },
     {
-        id: 6,
+        id: 7,
         title: "Orchestra Quiz",
         about: "A coding quiz for music",
         github: "https://github.com/dbedrossian/Mod4_Coding-Quiz",
